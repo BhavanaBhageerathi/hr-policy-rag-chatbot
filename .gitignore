@@ -1,0 +1,36 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+.venv/
+
+# Environment variables and API keys
+
+.env
+.env.*
+
+# Allow example environment file
+
+!.env.example
+
+# ChromaDB vector database
+
+chroma_db/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db

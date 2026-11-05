@@ -1,0 +1,12 @@
+chromadb
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pandas
+python-dotenv
+jupyter
+ipykernel
